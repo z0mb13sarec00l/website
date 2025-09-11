@@ -2,4 +2,11 @@ body {
     color: midnightblue;
     padding: 20px;
     color: white;
+    image-rendering: pixelated;
+}
+header {
+    text-align: left;
+}
+hr {
+    padding: 20px;
 }
