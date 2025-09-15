@@ -1,8 +1,9 @@
 body {
-    color: midnightblue;
+    background: midnightblue;
     padding: 20px;
     color: white;
     image-rendering: pixelated;
+    font-family: "Monaco", monospacel
 }
 header {
     text-align: left;
