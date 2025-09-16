@@ -3,7 +3,7 @@ body {
     margin: 20px;
     color: white;
     image-rendering: pixelated;
-    font-family: "Monaco", monospacel
+    font-family: "Monaco", monospace;
 }
 header {
     text-align: left;
